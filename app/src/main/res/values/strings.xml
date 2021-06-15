@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Home work two Layouts</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">+</string>
+    <string name="key_5">4</string>
+    <string name="key_6">5</string>
+    <string name="key_7">6</string>
+    <string name="key_8">-</string>
+    <string name="key_9">7</string>
+    <string name="key_10">8</string>
+    <string name="key_11">9</string>
+    <string name="key_12">*</string>
+    <string name="key_13">.</string>
+    <string name="key_14">0</string>
+    <string name="key_15">C</string>
+    <string name="key_16">/</string>
 </resources>
